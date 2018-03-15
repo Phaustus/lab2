@@ -1,2 +1,2 @@
 # lab2
-LPRS2 prva cela vezba
+LPRS2 - Laboratory exercise 2 - VGA
